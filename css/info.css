@@ -1,0 +1,21 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   word-break: keep-all;
+}
+
+ul,
+ol {
+   list-style: none;
+}
+
+a {
+   text-decoration: none;
+}
+
+
+.info {display: flex;}
+
+.info_title_size {font-size: 18px;}
+.info_title_size2 {font-size: 25px; font-weight: 500;}
